@@ -2,8 +2,6 @@
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-The challenge is to build the back end for an e-commerce site.
-
 ## Table Of Content
 
 - [General Info](#generalinfo)
