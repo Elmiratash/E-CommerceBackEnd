@@ -14,7 +14,7 @@
 ## General Info
 
 We’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database. This application won’t be deployed so i’ll show a walkthrough video that demonstrates its functionality.
-Image showcasing the application running in Postman.
+Image showcasing the application running in Postman. (https://watch.screencastify.com/v/537Z0f3NSNX2hRzpuCyV)
 
 Video:
 
@@ -62,7 +62,7 @@ npm run seed
 to start running application simply input
 
 ```bash
-node server.js
+npm start
 ```
 
 Open up Insomnia core to GET, POST, PUT and DELETE from different routes.
