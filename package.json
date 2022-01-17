@@ -1,5 +1,5 @@
 {
-    "name": "e-commercebackend",
+    "name": "module-13-challenge-orm",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -14,12 +14,11 @@
         "url": "git+https://github.com/Elmiratash/E-CommerceBackEnd.git"
     },
     "keywords": [],
-    "author": "Elmira Tashvighi",
+    "author": "",
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/Elmiratash/E-CommerceBackEnd/issues"
+    "devDependencies": {
+        "nodemon": "^2.0.3"
     },
-    "homepage": "https://github.com/Elmiratash/E-CommerceBackEnd#readme",
     "dependencies": {
         "dotenv": "^10.0.0",
         "express": "^4.17.2",
